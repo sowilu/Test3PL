@@ -14,9 +14,16 @@ using SimMetrics.Net.Metric;
 
 namespace _3PL1_DiscordBot
 {
+    class Test
+    {
+        public int test { get; set; }
+    }
+
 
     public class DadJoke
     {
+
+
         public string id { get; set; }
         public string joke { get; set; }
 
